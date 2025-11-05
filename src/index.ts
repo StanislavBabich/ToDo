@@ -21,4 +21,4 @@ const modal = new Popup(popupElement)
 const itemPresenter = new ItemPresenter(todoArray, Form, itemContainer, Item, modal);
 
 itemPresenter.init();
-itemPresenter.renderView();
+itemPresenter.renderView(); 
